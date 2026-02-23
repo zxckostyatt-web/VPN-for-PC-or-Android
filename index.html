@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VPN Mini App</title>
+
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+
+<style>
+
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#0f172a;
+    color:white;
+    text-align:center;
+}
+
+.container{
+    padding:20px;
+}
+
+.section{
+    margin-top:20px;
+    padding:15px;
+    background:#111827;
+    border-radius:16px;
+}
+
+.button{
+    display:block;
+    width:100%;
+    max-width:420px;
+    margin:10px auto;
+    padding:14px;
+    border-radius:12px;
+    background:#1e293b;
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+    border:none;
+    cursor:pointer;
+}
+
+.button:hover{
+    background:#334155;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h2 id="deviceTitle"></h2>
+
+<div class="section">
+<h3>VPN</h3>
+<div id="vpn"></div>
+</div>
+
+<div class="section">
+<h3>Белые списки</h3>
+<div id="white"></div>
+</div>
+
+</div>
+
+<script>
+
+/* ===== CONFIG ===== */
+
+const playStoreUrl = "https://play.google.com/store/apps/details?id=com.v2raytun.app";
+const pcDownloadUrl = "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe";
+
+const vpnLinks = {
+    "sub3":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub3.txt",
+    "sub4":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub4.txt",
+    "sub5":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub5.txt",
+    "sub2":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub2.txt",
+    "sub1":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub.txt",
+    "all-server":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/all-servers.txt"
+};
+
+const whiteLinks = {
+    "white-sub1":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/white-sub1.txt",
+    "sub1-white-lists":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub1-white-lists.txt",
+    "sub2-white-lists":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub2-white-lists.txt",
+    "BEST-sub3-white-lists":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/BEST-sub3-white-lists.txt",
+    "all-white-sub":"https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/all-white-sub.txt"
+};
+
+/* ===== DEVICE DETECTION ===== */
+
+const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+document.getElementById("deviceTitle").innerText =
+    isMobile ? "Android версия" : "PC версия";
+
+/* ===== FALLBACK LOGIC ===== */
+
+function openWithFallback(primary, fallback){
+    window.location.href = primary;
+
+    setTimeout(()=>{
+        window.location.href = fallback;
+    },1500);
+}
+
+/* ===== BUTTON CREATOR ===== */
+
+function createButton(name,url){
+
+    if(isMobile){
+        return `<button class="button"
+        onclick="openWithFallback(
+        'v2raytun://import-sub?url=${url}',
+        '${playStoreUrl}'
+        )">${name}</button>`;
+    }
+
+    else{
+        return `<button class="button"
+        onclick="openWithFallback(
+        'happ://url/${url}',
+        '${pcDownloadUrl}'
+        )">${name}</button>`;
+    }
+}
+
+/* ===== RENDER ===== */
+
+const vpnContainer = document.getElementById("vpn");
+const whiteContainer = document.getElementById("white");
+
+for(let name in vpnLinks){
+    vpnContainer.innerHTML += createButton(name,vpnLinks[name]);
+}
+
+for(let name in whiteLinks){
+    whiteContainer.innerHTML += createButton(name,whiteLinks[name]);
+}
+
+</script>
+
+</body>
+</html>
