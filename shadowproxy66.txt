@@ -1,5 +1,5 @@
 #profile-title: sbornikvpn⚡
-#support-url: https://vpn-sbornikvpn.my-style.in
+#info-url: https://vpn-sbornikvpn.my-style.in
 #support-url: https://t.me/vpn_sbornikvpn
 #profile-update-interval: 24
 #announce: sbornikvpn |ТГК: @vpn_sbornikvpn Сайт: https://vpn-sbornikvpn.my-style.in/
