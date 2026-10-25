@@ -1,0 +1,51 @@
+name: Auto Update Configs
+
+on:
+  # Запуск каждый час (в начале каждого часа)
+  schedule:
+    - cron: '0 * * * *'
+  
+  # Позволяет запускать воркфлоу вручную со вкладки Actions
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # Дает право боту делать коммиты и пуши
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Установка зависимостей (если твоему скрипту нужны библиотеки)
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      # Твой скрипт для генерации/сбора конфигов
+      - name: Run config generator script
+        run: |
+          python generator.py
+
+      # Автоматический коммит и пуш
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add .
+          git status
+          
+          if git diff --staged --quiet; then
+            echo "No changes to update."
+          else
+            git commit -m "chore: hourly auto-update configs [skip ci]"
+            git push
+          fi
