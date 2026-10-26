@@ -19,6 +19,8 @@ groups = {
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt",
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt",
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+        "https://git.kangel.xyz/root/vpn-configs/raw/branch/main/overhub/white.txt",
+        
         # Сюда можешь дописать сколько угодно сыллок для группы white
     ],
     "overhub/servers.txt": [
@@ -36,6 +38,7 @@ groups = {
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt",
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt",
         # Сюда сыллки для группы servers
+        "https://git.kangel.xyz/root/vpn-configs/raw/branch/main/overhub/servers.txt",
     ]
 }
 
