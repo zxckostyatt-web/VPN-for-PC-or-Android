@@ -10,7 +10,15 @@ groups = {
         "https://hub.mos.ru/akelladejavu/bunker/-/raw/main/WHITE_LIST.txt",
         "https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/WlSubPiz.txt",
         "https://github.com/vessel-web/CoolSubs/raw/refs/heads/main/Cool-White.txt",
-        "https://hub.mos.ru/akelladejavu/bunker/-/raw/main/WHITE_LIST.txt",
+        "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub1.txt",
+        "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub3.txt",
+        "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub5.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/subs/sub1.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/subs/sub3.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/subs/sub5.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
         # Сюда можешь дописать сколько угодно сыллок для группы white
     ],
     "overhub/servers.txt": [
@@ -18,6 +26,15 @@ groups = {
         "https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/sub.txt",
         "https://raw.githubusercontent.com/MrMisha4048/pizdukspecial/refs/heads/main/vpn.txt",
         "https://raw.githubusercontent.com/vessel-web/CoolSubs/refs/heads/main/Cool-Black.txt",
+        "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub2.txt",
+        "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub4.txt",
+        "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/Sub6.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/subs/sub2.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/subs/sub4.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/subs/sub6.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt",
         # Сюда сыллки для группы servers
     ]
 }
