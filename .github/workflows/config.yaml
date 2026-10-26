@@ -1,7 +1,8 @@
 name: Auto Update Configs
 
 on:
-  # Запуск каждый час (в начале каждого часа)
+  workflow_dispatch:      # для ручной кнопки
+  repository_dispatch:    # <--- ВОТ ЭТО ОБЯЗАТЕЛЬНО для cron-job.org
   schedule:
     - cron: '0 * * * *'
   
