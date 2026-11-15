@@ -2569,6 +2569,7 @@ vmess://eyJhZGQiOiAiMTI5LjE0Ni4xNDMuODAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#cool%20%5Bblack%5D%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%231751%7C
 vmess://eyJhZGQiOiAiNjcuMjIwLjg1LjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJAbnB2X3ZwbjExIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==#cool%20%5Bblack%5D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%231752%7C
 vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiQG5wdl92cG4xMSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiMTQ5Ljg4LjIzLjIwMiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#cool%20%5Bblack%5D%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%231753%7C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#Telegram  ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#برای اتصال دائمی جوین شو🪭 TelegramID ⌲v2ray_configs_pools 🪩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#✅  @vistav2ray کانال ما ✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#🇩🇪 سرورتایم بالاعضو شو👉@v2ray_configs_pools
@@ -3068,7 +3069,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.108.117.111:19999#🇩🇪DE-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.163.18:19999#🇺🇸 | تلگرام: @IRJetConfig #RK
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#🇬🇧215638 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#🇬🇧215687 | ⚡️Telegram = t.me/LonUp_M
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#@hex_proxy ⁷
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#Tel-@ProxyMtAlpha🪁 4
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=/?Telegram---@bored_vpn&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#bored_vpn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#Telegram 👉🏼 @planB_net  • 08
@@ -3568,7 +3569,7 @@ trojan://humanity@104.27.201.80:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@pass_net🎃🕸️🎃
 trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@pass_net🎃🕸️🎃🇨🇦
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@pass_net🎃🕸️🎃
-trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦TM (@AZARBAYJAB1)
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.110:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=service-f437d6-66e56a-production.up.railway.app&fp=chrome&type=ws&sni=service-f437d6-66e56a-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.113:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=app-07f7db-36f466-production.up.railway.app&fp=chrome&type=ws&sni=app-07f7db-36f466-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.113:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=service-c196fc-ec4744-production.up.railway.app&fp=chrome&type=ws&sni=service-c196fc-ec4744-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.114:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=net-2d40b1-748d51-production.up.railway.app&fp=chrome&type=ws&sni=net-2d40b1-748d51-production.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -4068,7 +4069,6 @@ vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip=tw.william.us.ci!txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@hopev2ray💛
 vless://29ca503d-e6b8-4509-b666-48133f450857@soskeynets.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#🇨🇦139898 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2My-chanel-Telegram-ATOVPN @167.104.219.193:40185?security=&encryption=none&headerType=&type=tcp#@ATOVPN_گیگی3500⚡
-vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?security=reality&encryption=none&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=ff867ed245c73f43#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.113.251:59483?security=none&type=grpc#@Hope_Net-join-us-on-Telegram
 ss://ffffa97f-516f-4df9-a951-deee216d7988@151.101.128.155:80?security=none&type=ws&host=vipfast_7.com#@Hope_Net-join-us-on-Telegram
 ss://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@151.101.130.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Hope_Net-join-us-on-Telegram`
@@ -5494,6 +5494,9 @@ vless://50414e45-4c5f-5a45-5553-7e7818beb9aa@104.20.45.141:443?sni=razk50e1uvss.
 vless://50414e45-4c5f-5a45-5553-85d1d3cdee8d@172.67.197.172:2096?encryption=none&fp=firefox&host=dnzt7iejuars.dewy-birch-9ee5.workers.dev&path=/stream/PANEL_ZEUS/85d1d3cdee8d&security=tls&sni=dnzt7iejuars.dewy-birch-9ee5.workers.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.121.196:443?encryption=none&security=tls&sni=blackshadow.dpdns.org&type=ws&host=blackshadow.dpdns.org&path=%2F44.209.52.7-443#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.121.196:443?type=ws&host=blackshadow.dpdns.org&path=%2F44.209.52.7-443&security=tls&fp=chrome&sni=blackshadow.dpdns.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#🇬🇧215687 | ⚡️Telegram = t.me/LonUp_M
+trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦TM (@AZARBAYJAB1)
+vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?security=reality&encryption=none&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=ff867ed245c73f43#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgQ2hpY2FnbyB8IPCfjJAgfCBbQkxdIiwiYWRkIjoiMTA0LjE3LjEzNi4xOTgiLCJwb3J0IjoiNDQzIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ii93cyIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0?fp=ios
 vmess://eyJhZGQiOiIxNjIuMTU5LjEyOC4xNyIsImFpZCI6IjAiLCJob3N0IjoidjJyYXkucnlpbi52aXAiLCJpZCI6ImM4YjQ1NWFkLWZmZjEtNDNlOS05YWY5LWQ5NzU4NWM0NTM0YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yeWluc29ja3N2MmJvYXJkIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIChTaGlyb21pKSB8IPCfjJAgfCBbQkxdIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
@@ -13440,7 +13443,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#@V2ra
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#@VPsave
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#@appsooner کانال تلگرام 🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#IRAN_V2PING@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#Telegram  ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM#@B2Hub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdmFENFAyNGV5bkJ1WE4tNmIyY2l0cTdBdTZtajZvYg==@46.225.32.86:1080#🇩🇪213888 | ⚡️Telegram = t.me/SOSkeyNET
